@@ -1,8 +1,8 @@
   import { createBrowserRouter, RouterProvider, Link, Outlet } from 'react-router-dom'
   import './App.css'
-  import Users from './components/Users/users.jsx'
-  import Settings from './components/Settings/settings.jsx'
-  import Logout from './components/Logout/logout.jsx'
+  import Users from './components/users/users.jsx'
+  import Settings from './components/settings/settings.jsx'
+  import Logout from './components/logout/logout.jsx'
   import General from './components/gen/general.jsx'
 
 
